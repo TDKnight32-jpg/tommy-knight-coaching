@@ -22,9 +22,9 @@ export default function Hero() {
           </h1>
 
           <p className="mt-6 max-w-xl font-sans text-lg leading-relaxed text-navy/80 sm:text-xl">
-            Real training for real runners with real lives. Built around your
-            goals, your schedule and the next goal you&apos;re chasing. From
-            your first 5k to your fastest marathon.
+            Online coaching for real runners with real lives. Built around
+            your goals, your schedule and the next goal you&apos;re chasing.
+            From your first 5K to your fastest marathon.
           </p>
 
           <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:items-center">
